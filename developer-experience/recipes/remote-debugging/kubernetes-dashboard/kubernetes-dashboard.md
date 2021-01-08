@@ -10,13 +10,32 @@ There are times when not all solutions can be run locally. This limitation could
 
 ## Pre-Requisites
 
+- Kubernetes cluster up and running
+- [Install Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/): command-line tool that allows you to run commands against Kubernetes clusters.
+
 ## Advantages
 
-## Limitations
+- Allows the ability to view, manage and monitor the operational aspects of the Kubernetes Cluster.
+
+- Provides an easy to use web-based UI to be able to do do the following:
+  - See an overview of the cluster
+  - deploy applications onto the cluster
+  - troubleshoot applications running on the cluster
+  - view, create, modify, and delete Kubernetes resources
+  - view basic resource metrics including resource usage for Kubernetes objects
+  - viewing and accessing logs
+
+## Limitations/Out of Scope
+
+- Cannot run Kubernetes dashboard in Cloud Shell
 
 ## Usage
+
+- TBA
 
 ## References
 
 - [Kubernetes Dashboard Repository](https://github.com/kubernetes/dashboard)
 - [Dashboard Usage and Examples](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+- [Kubectl Cheat Sheet and Operations](https://kubernetes.io/docs/reference/kubectl/overview/)
+- [Alternatives to Kubernetes Dashboard](https://octopus.com/blog/alternative-kubernetes-dashboards)
