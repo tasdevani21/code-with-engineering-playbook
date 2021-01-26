@@ -26,7 +26,7 @@ The Kubernetes dashboard is a web-based UI for Kubernetes which provides an over
    kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0/aio/deploy/recommended.yaml
    ```
 
-2. Create a User - The dashboard supports various ways to manage access control. [We can create a simple admin user account](https://upcloud.com/community/tutorials/deploy-kubernetes-dashboard/#point-2) with privileges to modify the using and use tokens. You can also [create a read-only user](https://upcloud.com/community/tutorials/deploy-kubernetes-dashboard/#point-3) if you would like to only view the different components of the cluster vs modifying it.
+2. Create a User - The dashboard supports various ways to manage access control. [We can create a simple admin user account](https://upcloud.com/community/tutorials/deploy-kubernetes-dashboard/#point-2) with privileges to modify. You can also [create a read-only user](https://upcloud.com/community/tutorials/deploy-kubernetes-dashboard/#point-3) if you would like to only view the different components of the cluster vs modifying it.
 
 3. Access the Dashboard - After the installation of the dashboard and creation of the user accounts for it, we can create a proxy service on the localhost to access the dashboard.
 
