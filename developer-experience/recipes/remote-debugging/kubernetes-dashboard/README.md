@@ -23,7 +23,7 @@ There are times when not all solutions can be run locally. This limitation could
   - troubleshoot applications running on the cluster
   - view, create, modify, and delete Kubernetes resources
   - view basic resource metrics including resource usage for Kubernetes objects
-  - viewing and access logs
+  - view and access logs
   - exec into the container
   - live view of the pods state (e.g. started, terminating, etc)
 
