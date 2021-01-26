@@ -10,7 +10,7 @@ There are times when not all solutions can be run locally. This limitation could
 
 ## Pre-Requisites
 
-- Kubernetes cluster up and running
+- [Kubernetes cluster up and running](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 - [Install Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/): command-line tool that allows you to run commands against Kubernetes clusters.
 
 ## Advantages and Use Cases
@@ -18,12 +18,12 @@ There are times when not all solutions can be run locally. This limitation could
 - Allows the ability to view, manage and monitor the operational aspects of the Kubernetes Cluster.
 
 - Provides an easy to use web-based UI to be able to do do the following:
-  - See an overview of the cluster
+  - see an overview of the cluster
   - deploy applications onto the cluster
   - troubleshoot applications running on the cluster
   - view, create, modify, and delete Kubernetes resources
   - view basic resource metrics including resource usage for Kubernetes objects
-  - viewing and accessing logs
+  - viewing and access logs
   - exec into the container
   - live view of the pods state (e.g. started, terminating, etc)
 
