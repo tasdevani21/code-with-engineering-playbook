@@ -27,7 +27,7 @@ There are times when not all solutions can be run locally. This limitation could
   - exec into the container
   - live view of the pods state (e.g. started, terminating, etc)
 
-## Limitations/Out of Scope
+## Limitations
 
 - Cannot run Kubernetes dashboard in Cloud Shell
 - Customizations of themes, layouts, and other UI elements
