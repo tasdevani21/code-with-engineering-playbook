@@ -32,10 +32,6 @@ There are times when not all solutions can be run locally. This limitation could
 - Cannot run Kubernetes dashboard in Cloud Shell
 - Customizations of themes, layouts, and other UI elements
 
-## Usage
-
-The instructions for setup and examples available can be found [here](recipes/kubernetes-dashboard/setup-kubernetes-dashboard.md)
-
 ## References
 
 - [Kubernetes Dashboard Repository](https://github.com/kubernetes/dashboard)
