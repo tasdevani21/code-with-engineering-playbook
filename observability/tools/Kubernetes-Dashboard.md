@@ -34,7 +34,7 @@ There are times when not all solutions can be run locally. This limitation could
 
 ## Usage
 
-The instructions for setup and examples available can be found [here](setup-kubernetes-dashboard.md).
+The instructions for setup and examples available can be found [here](recipes/kubernetes-dashboard/setup-kubernetes-dashboard.md)
 
 ## References
 
